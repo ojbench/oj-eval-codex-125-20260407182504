@@ -1,0 +1,14 @@
+# Required by OJ
+CMakeFiles/
+CMakeCache.txt
+
+# Common build outputs
+Makefile
+cmake_install.cmake
+code
+code.exe
+
+# Local
+*.o
+*.obj
+*.log
